@@ -6,7 +6,7 @@
 # Coveralls example:
 #    https://github.com/marketplace/actions/coveralls-github-action
 #
-##############################################################################
+#############################################################################
 
 name: project_legion_build
 
